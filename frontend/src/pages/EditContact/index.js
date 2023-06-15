@@ -1,3 +1,5 @@
+import PageHeader from '../../components/PageHeader';
+
 export default function EditContact() {
-  return 'editContact';
+  return <PageHeader title="Editar Thiago Sousa" />;
 }
